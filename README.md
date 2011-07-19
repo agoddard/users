@@ -1,6 +1,6 @@
 Description
 ===========
-
+TEST
 Creates users from a databag search.
 
 Requirements
